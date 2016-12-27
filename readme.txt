@@ -1,1 +1,1 @@
-Hello there, this is a test git folder / repo creation in cloud 9.
+This is adding a file to the git repo.
